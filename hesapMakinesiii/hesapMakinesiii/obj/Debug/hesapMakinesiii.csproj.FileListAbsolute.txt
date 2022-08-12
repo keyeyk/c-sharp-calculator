@@ -1,0 +1,11 @@
+C:\Users\kak_y\source\repos\hesapMakinesiii\hesapMakinesiii\bin\Debug\hesapMakinesiii.exe.config
+C:\Users\kak_y\source\repos\hesapMakinesiii\hesapMakinesiii\bin\Debug\hesapMakinesiii.exe
+C:\Users\kak_y\source\repos\hesapMakinesiii\hesapMakinesiii\bin\Debug\hesapMakinesiii.pdb
+C:\Users\kak_y\source\repos\hesapMakinesiii\hesapMakinesiii\obj\Debug\hesapMakinesiii.csproj.AssemblyReference.cache
+C:\Users\kak_y\source\repos\hesapMakinesiii\hesapMakinesiii\obj\Debug\hesapMakinesiii.csproj.SuggestedBindingRedirects.cache
+C:\Users\kak_y\source\repos\hesapMakinesiii\hesapMakinesiii\obj\Debug\hesapMakinesiii.Form1.resources
+C:\Users\kak_y\source\repos\hesapMakinesiii\hesapMakinesiii\obj\Debug\hesapMakinesiii.Properties.Resources.resources
+C:\Users\kak_y\source\repos\hesapMakinesiii\hesapMakinesiii\obj\Debug\hesapMakinesiii.csproj.GenerateResource.cache
+C:\Users\kak_y\source\repos\hesapMakinesiii\hesapMakinesiii\obj\Debug\hesapMakinesiii.csproj.CoreCompileInputs.cache
+C:\Users\kak_y\source\repos\hesapMakinesiii\hesapMakinesiii\obj\Debug\hesapMakinesiii.exe
+C:\Users\kak_y\source\repos\hesapMakinesiii\hesapMakinesiii\obj\Debug\hesapMakinesiii.pdb
